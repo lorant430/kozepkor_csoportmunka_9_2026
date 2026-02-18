@@ -1,51 +1,21 @@
 FELADATAIM
-    I
-Középkori polgárként egy városban éltem.
-
-Főként kézművesként vagy kereskedőként dolgoztam, például takácsként, kovácsként vagy péként.
-
-Munkámat a céh szabályai szerint végeztem.
-
-Adót fizettem a földesúrnak vagy a királynak.
-
-Engedelmességgel tartoztam a város vezetésének és az uralkodónak.
-
-Tőlem függött a családom megélhetése.
-
-Az inasok és a segédek nálam tanulták a mesterséget, és az ő munkájukért is felelősséggel tartoztam.
+Középkori polgárként egy fallal körülvett városban élek.
+Kézművesként vagy kereskedőként dolgozom, a mesterségemet a céh szabályai szerint végzem.
+Adót fizetek a királynak vagy a földesúrnak, és engedelmeskedem a város vezetőinek.
+Gondoskodom a családomról, valamint az inasokról és segédekről, akik nálam tanulnak.
 
 
 
-ELETMOD
-   I
-Középkori polgárként fallal körülvett városban éltem.
-
-Szabadsággal és önkormányzati jogokkal rendelkeztem, ami megkülönböztetett a jobbágyoktól.
-
-Kézművesként vagy kereskedőként dolgoztam.
-
-Céhbe tartoztam, és a céh szigorú hierarchiája szerint éltem.
-
-A házam a műhelyemnek is helyet adott.
-
-Ruházatom jelezte a társadalmi státuszomat.
+ÉLETMÓDOM
+A házam egyben a műhelyem is, itt dolgozom és itt él a családom.
+Szabad polgár vagyok, több jogom van, mint a jobbágyoknak.
+Céhhez tartozom, amely meghatározza a munkámat és a helyemet a városban.
+Ruházatom és viselkedésem mutatja, hogy megbecsült polgár vagyok.
 
 
 
-VISELKEDÉS
-    I
-Középkori polgárként tisztelettel viselkedtem a város vezetőivel és az uralkodóval szemben.
-
-Betartottam a céh és a város törvényeit.
-
-Hírnevem és becsületem fontos volt számomra, mert ez határozta meg a helyemet a közösségben.
-
-Tisztességesen kereskedtem, nem csaptam be a vásárlóimat.
-
-Részt vettem a városi ünnepeken, vásárokon és egyházi eseményeken.
-
-Vallásos életet éltem, templomba jártam, és betartottam az egyházi előírásokat.
-
-Segítettem a családomat és a céhtársaimat, ha szükségük volt rá.
-
-Ügyeltem arra, hogy viselkedésem méltó legyen a polgári rangomhoz.
+VISELKEDÉSEM
+Tisztelem a város vezetőit és az uralkodót.
+Betartom a céh és a város törvényeit, mert a jó hírnevem mindennél fontosabb.
+Becsületesen dolgozom és tisztességesen kereskedem.
+Részt veszek az ünnepeken, vásárokon és templomba járok.
