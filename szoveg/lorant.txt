@@ -1,0 +1,25 @@
+FELADATAIM
+    I
+Középkori polgárként egy városban éltem, és főként kézművesként vagy kereskedőként 
+dolgoztam, például takácsként, kovácsként vagy péként. Munkámat a céh szabályai szerint végeztem, 
+és adót fizettem a földesúrnak vagy a királynak. Engedelmességgel tartoztam a város vezetésének és az 
+uralkodónak. Tőlem függött a családom megélhetése, 
+valamint az inasok és segédek munkája is, akik nálam tanulták a mesterséget.
+
+
+
+ELETMOD
+   I
+A középkori polgár élete a fallal körülvett városokban zajlott, szabadsággal és 
+önkormányzati jogokkal rendelkezve, ami megkülönböztette a jobbágyoktól. 
+Kézművesként vagy kereskedőként dolgoztak, céhekbe tömörülve, szigorú hierarchiában éltek. 
+Házuk a műhelynek is helyet adott, ruházatuk pedig jelezte társadalmi státuszukat. 
+
+
+SZABALYOK
+    I
+A középkori polgár (civis) a városi közösség teljes jogú, szabad tagja volt,
+aki nem tartozott földesúri függésbe, tulajdonával szabadon rendelkezett, és a 
+városfalakon belül élt. Jogai közé tartozott a kereskedés, a céhes iparűzés, 
+a bíróválasztás és a városi önkormányzatban való részvétel, ugyanakkor kötelessége volt az adózás, 
+a város védelme és a jogszabályok betartása.
