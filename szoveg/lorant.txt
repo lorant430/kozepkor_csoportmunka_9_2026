@@ -1,5 +1,4 @@
 FELADATAIM
-Középkori polgárként egy fallal körülvett városban élek.
 Kézművesként vagy kereskedőként dolgozom, a mesterségemet a céh szabályai szerint végzem.
 Adót fizetek a királynak vagy a földesúrnak, és engedelmeskedem a város vezetőinek.
 Gondoskodom a családomról, valamint az inasokról és segédekről, akik nálam tanulnak.
@@ -7,10 +6,11 @@ Gondoskodom a családomról, valamint az inasokról és segédekről, akik nála
 
 
 ÉLETMÓDOM
-A házam egyben a műhelyem is, itt dolgozom és itt él a családom.
-Szabad polgár vagyok, több jogom van, mint a jobbágyoknak.
+Középkori polgárként egy fallal körülvett városban élek.
+A házam egyben a műhelyem is, itt dolgozom, és itt él a családom.
+Én egy szabad polgár vagyok, nekem több jogom van, mint a jobbágyoknak.
 A cipészek céhéhez tartozom, amely meghatározza a munkámat és a helyemet a városban.
-Ruházatom és viselkedésem mutatja, hogy megbecsült polgár vagyok.
+Ruházatom és viselkedésem mutatja azt, hogy megbecsült polgár vagyok.
 
 
 
