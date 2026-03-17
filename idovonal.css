@@ -9,12 +9,8 @@ body{
 }
 
 img{
-    width: 100%;
-    border: 3px solid red;
-    border-radius: 15%;
-    padding: 10px;
+    max-width: 350px;
 }
-
 
 h2{
     padding: 20px;
@@ -33,7 +29,16 @@ h2{
 p{
     text-align: justify;
     font-size: 15px;
-    font-family: Rockwell;
     border: 3px solid red;
 
+}
+.esemeny {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+img {
+  width: 280px;
+  border: 3px solid #b89a5c;
+  border-radius: 6px;
 }

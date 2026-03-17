@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Georgia", serif;
+}
+
+body {
+  background: #f3e9d2; 
+  color: #3b2f2f;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+  background: #fff8e6;
+  padding: 20px;
+  border: 2px solid #c9b27c;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+
+header {
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: 3px solid #b89a5c;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  color: #4a3b2a;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: #d8c49a;
+  padding: 12px;
+  margin: 20px 0;
+  border-radius: 6px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #3b2f2f;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  background: #b89a5c;
+  color: white;
+}
+
+
+
+
+
+
+.szoveg {
+  flex: 1;
+}
+
+.szoveg p {
+  font-size: 1.1rem;
+  text-align: justify;
+}
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 15px;
+  background: #d8c49a;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .elrendezes {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .elrendezes img {
+    width: 100%;
+    max-width: 350px;
+    margin: auto;
+  }
+}
