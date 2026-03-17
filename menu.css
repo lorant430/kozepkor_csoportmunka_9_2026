@@ -1,0 +1,15 @@
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: #222;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 20px;
+}
+
+nav a:hover {
+  color: #b33;
+  text-decoration: underline;
+}

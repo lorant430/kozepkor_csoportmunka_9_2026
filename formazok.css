@@ -1,12 +1,14 @@
 body{
-    background-color: rgb(233, 210, 180);
+    background-color: rgb(247, 227, 201);
     max-width: 1000px;
     margin: auto;
     font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 img{
     width: auto;
     max-width: 800px;
+    width: 50%;
 }
