@@ -9,14 +9,10 @@ body{
 }
 
 img{
-<<<<<<< HEAD
    
     border: 3px solid red;
     border-radius: 15%;
     padding: 10px;
-=======
-    max-width: 350px;
->>>>>>> bc86293f24b19e8fa2a25a6b018ae6da7205ecce
 }
 
 h2{
