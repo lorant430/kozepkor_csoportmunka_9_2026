@@ -13,7 +13,12 @@ nav {
   margin-bottom: 20px;
   color: #d24a4a;
 }
-
+nav a{
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  text-decoration: none;
+}
 nav a:hover {
-  background-color: #d24a4a;
+  background-color: chocolate;
 }
