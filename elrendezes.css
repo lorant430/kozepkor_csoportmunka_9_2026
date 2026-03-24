@@ -19,6 +19,10 @@ img {
   font-size: 17px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b92ac8668c4db782cc066d27980ca6bc3a0bb196
 @media (max-width: 700px) {
   .elrendezes {
     grid-template-columns: 1fr; 
