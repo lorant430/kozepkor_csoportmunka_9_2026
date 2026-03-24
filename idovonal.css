@@ -1,19 +1,23 @@
-body{
+/* Idővonal cím */
 
-    background-color: beige;
-    font-family:Arial, sans-serif;
-    margin:auto;
-    border: 3px solid red;
-
+article > h2 {
+  margin-bottom: 10px;
 }
 
+/* Eseménydobozok */
+
+.esemeny,
+.esemeny1,
+.esemeny2,
+.esemeny3,
+.esemeny4 {
+  margin-bottom: 20px;
 img{
    
     border: 3px solid red;
     border-radius: 15%;
     padding: 10px;
     max-width: 350px;
-
 }
 
 h2{
@@ -46,11 +50,52 @@ img {
 @media (max-width: 600px) {
   .ido {
     text-align: center;
+.ido {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+  padding: 12px;
+  border: 2px solid #b33a3a;
+  background-color: #fff7e6;
+  border-radius: 6px;
+}
+
+.ido h2 {
+  min-width: 70px;
+  text-align: center;
+  font-size: 1.4rem;
+  margin-right: 5px;
+}
+
+.ido img {
+  width: 140px;
+  flex-shrink: 0;
+}
+
+.ido .szoveg {
+  flex: 1;
+}
+
+
+
+@media (max-width: 700px) {
+  .ido {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .ido h2 {
+    text-align: left;
   }
 
   .ido img {
     width: 100%;
+<<<<<<< HEAD
     max-width: 350px;
     margin: auto;
   }
 }
+=======
+  }
+}
+>>>>>>> 0ba92957b3177f4851ffb9694709445af2f5b5ec

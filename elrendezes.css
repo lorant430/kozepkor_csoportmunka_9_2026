@@ -1,48 +1,32 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Georgia", serif;
+.elrendezes {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
 }
 
+<<<<<<< HEAD
 body {
   background: #f3e9d2; 
   color: hsl(0, 11%, 21%);
+=======
+.elrendezes img {
+  width: 220px;
+  flex-shrink: 0;
+>>>>>>> 0ba92957b3177f4851ffb9694709445af2f5b5ec
 }
 
-main {
-  max-width: 1000px;
-  margin: auto;
-  background: #fff8e6;
-  padding: 20px;
-  border: 2px solid #c9b27c;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+.elrendezes .szoveg {
+  flex: 1;
 }
 
+/* Mobilbarát törés */
 
-header {
-  text-align: center;
-  padding: 20px 0;
-  border-bottom: 3px solid #b89a5c;
-}
-
-footer {
-  text-align: center;
-  margin-top: 40px;
-  padding: 15px;
-  background: #d8c49a;
-  border-radius: 6px;
-  font-weight: bold;
-}
-
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .elrendezes {
-    text-align: center;
+    flex-direction: column;
   }
 
   .elrendezes img {
     width: 100%;
-    max-width: 350px;
-    margin: auto;
   }
 }
