@@ -4,7 +4,6 @@ article > h2 {
   margin-bottom: 10px;
 }
 
-<<<<<<< HEAD
 /* Eseménydobozok */
 
 .esemeny,
@@ -13,14 +12,6 @@ article > h2 {
 .esemeny3,
 .esemeny4 {
   margin-bottom: 20px;
-=======
-img{
-   
-    border: 3px solid red;
-    border-radius: 15%;
-    padding: 10px;
-    max-width: 350px;
->>>>>>> c27b1e4900d320595fdcd45b549c9f9747277005
 }
 
 .ido {
