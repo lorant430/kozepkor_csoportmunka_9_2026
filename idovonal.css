@@ -34,12 +34,26 @@ img {
   display: block;
 }
 
-.szoveg {
-  border: 2px solid red;
-  flex: 1;
-}
-
 .szoveg h2 {
   margin-top: 0;
   margin-bottom: 10px;
+}
+
+
+@media (max-width: 700px) {
+.esemeny,
+.esemeny1,
+.esemeny2,
+.esemeny3,
+.esemeny4 {
+    grid-template-columns: 1fr; 
+  }
+
+.esemeny,
+.esemeny1,
+.esemeny2,
+.esemeny3,
+.esemeny4 img {
+    width: 100%;
+  }
 }
