@@ -1,13 +1,14 @@
 .elrendezes {
   display: grid;
+  grid-template-columns: 250px 1fr; 
   gap: 20px;
   background-color: #fff2d9;
   border: 3px solid #b33a3a;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 30px;
+  align-items: start; 
 }
-
 img {
   width: 250px;
   border: 4px solid #8b1a1a;
@@ -18,9 +19,16 @@ img {
   font-size: 17px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> b92ac8668c4db782cc066d27980ca6bc3a0bb196
+>>>>>>> b60f9a02993c7d8df42c331e5e57552e488d2781
 @media (max-width: 700px) {
   .elrendezes {
-    
+    grid-template-columns: 1fr; 
   }
 
   .elrendezes img {
