@@ -1,5 +1,5 @@
 body {
-  background-color: #f3e4c8; 
+  background-color: #f3e4c8;
   margin: 0;
   font-family: Georgia, serif;
   color: #2b1a0f;
@@ -9,7 +9,7 @@ main {
   max-width: 1000px;
   margin: 20px auto;
   background-color: #fff7e6;
-  border: 5px solid #8b1a1a; 
+  border: 5px solid #8b1a1a;
   padding: 20px;
 }
 

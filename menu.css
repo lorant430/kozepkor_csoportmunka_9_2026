@@ -5,14 +5,13 @@ nav {
   margin-bottom: 20px;
 }
 
-nav a {
-  text-decoration: none;
-  background-color: #b33a3a;
-  color: #f9f0dd;
-  padding: 8px 16px;
-  border-radius: 20px;
-  border: 2px solid #7f1f1f;
-  font-weight: bold;
+nav {
+  display: grid;
+  grid-auto-flow: column;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+  color: #d24a4a;
 }
 
 nav a:hover {
