@@ -2,7 +2,6 @@ body{
 
     background-color: beige;
     font-family:Arial, sans-serif;
-    
     margin:auto;
     border: 3px solid red;
 
@@ -21,6 +20,7 @@ h2{
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 5%;
+    border: 3px solid red;
 
 }
 
@@ -42,7 +42,7 @@ p{
   align-items: flex-start;
 }
 img {
-  width: 280px;
-  border: 3px solid #b89a5c;
+  width: 300px;
+  border: 3px solid red;
   border-radius: 6px;
 }
