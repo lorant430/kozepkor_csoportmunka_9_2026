@@ -34,33 +34,25 @@ img {
   display: block;
 }
 
-<<<<<<< HEAD
-=======
-.szoveg {
-  flex: 1;
-}
-
->>>>>>> e4c9bc3eedf94d1081d8841d65389cb7037f0e1f
 .szoveg h2 {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-
 @media (max-width: 700px) {
-.esemeny,
-.esemeny1,
-.esemeny2,
-.esemeny3,
-.esemeny4 {
-    grid-template-columns: 1fr; 
+  .esemeny,
+  .esemeny1,
+  .esemeny2,
+  .esemeny3,
+  .esemeny4 {
+    grid-template-columns: 1fr;
   }
 
-.esemeny,
-.esemeny1,
-.esemeny2,
-.esemeny3,
-.esemeny4 img {
+  .esemeny,
+  .esemeny1,
+  .esemeny2,
+  .esemeny3,
+  .esemeny4 img {
     width: 100%;
   }
 }
