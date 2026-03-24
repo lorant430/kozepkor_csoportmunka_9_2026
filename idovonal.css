@@ -15,25 +15,31 @@
   background-color: #d9c4a3;
   padding: 10px;
   border: 3px solid #8b1a1a;
-  display: inline-block;
-  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 .ido p {
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
-
-
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin: 0;
 }
+
 img {
   width: 250px;
   border: 4px solid #8b1a1a;
   border-radius: 10px;
-  margin-bottom: 15px;
+  display: block;
 }
 
 .szoveg {
-    border: 2px solid red;
+  border: 2px solid red;
+  flex: 1;
 }
 
+.szoveg h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
