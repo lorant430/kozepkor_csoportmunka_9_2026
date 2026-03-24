@@ -1,26 +1,25 @@
 .elrendezes {
   display: flex;
-  gap: 15px;
-  align-items: flex-start;
+  gap: 20px;
+  background-color: #fff2d9;
+  border: 3px solid #b33a3a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
 }
 
-<<<<<<< HEAD
-body {
-  background: #f3e9d2; 
-  color: hsl(0, 11%, 21%);
-=======
 .elrendezes img {
-  width: 220px;
-  flex-shrink: 0;
->>>>>>> 0ba92957b3177f4851ffb9694709445af2f5b5ec
+  width: 250px;
+  border: 4px solid #8b1a1a;
+  border-radius: 10px;
 }
 
 .elrendezes .szoveg {
   flex: 1;
+  font-size: 17px;
 }
 
-/* Mobilbarát törés */
-
+/* Mobil */
 @media (max-width: 700px) {
   .elrendezes {
     flex-direction: column;
