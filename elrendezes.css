@@ -1,5 +1,5 @@
 .elrendezes {
-  display: flex;
+  display: grid;
   gap: 20px;
   background-color: #fff2d9;
   border: 3px solid #b33a3a;
@@ -18,10 +18,13 @@ img {
   font-size: 17px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9d5c16508721052f38975492fb4e01e281e749b4
 @media (max-width: 700px) {
   .elrendezes {
-    flex-direction: column;
+    
   }
 
   .elrendezes img {
