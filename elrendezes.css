@@ -1,13 +1,14 @@
 .elrendezes {
   display: grid;
+  grid-template-columns: 250px 1fr; 
   gap: 20px;
   background-color: #fff2d9;
   border: 3px solid #b33a3a;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 30px;
+  align-items: start; 
 }
-
 img {
   width: 250px;
   border: 4px solid #8b1a1a;
@@ -18,13 +19,9 @@ img {
   font-size: 17px;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 9d5c16508721052f38975492fb4e01e281e749b4
 @media (max-width: 700px) {
   .elrendezes {
-    
+    grid-template-columns: 1fr; 
   }
 
   .elrendezes img {
