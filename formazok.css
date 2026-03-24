@@ -1,83 +1,36 @@
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
 body {
-  font-family: "Georgia", "Times New Roman", serif;
-  background-color: #f3e4c8;        
+  background-color: #f3e4c8; 
+  margin: 0;
+  font-family: Georgia, serif;
   color: #2b1a0f;
 }
 
 main {
   max-width: 1000px;
   margin: 20px auto;
-  background-color: #f9f0dd;
-  border: 4px solid #8b1a1a;         
+  background-color: #fff7e6;
+  border: 5px solid #8b1a1a; 
   padding: 20px;
 }
 
-
-
 header {
   text-align: center;
-  margin-bottom: 20px;
-  padding-bottom: 10px;
-  border-bottom: 3px solid #8b1a1a;
+  padding: 20px;
+  border-bottom: 4px solid #8b1a1a;
 }
 
-header h1 {
-  font-size: 2.2rem;
-  letter-spacing: 1px;
+h2 {
+  color: #4a2a1a;
 }
 
-
-
-article {
-  margin-top: 20px;
-}
-
-.bejegyzes {
-  margin-bottom: 25px;
-  padding: 15px;
-  border: 2px solid #b33a3a;
-  background-color: #fff7e6;
-  border-radius: 6px;
-}
-
-.bejegyzes h2 {
-  margin-bottom: 10px;
-}
-
-
-
-.szöveg,
-.szövge {
-  margin-bottom: 20px;
-  padding: 15px;
-  border: 2px solid #b33a3a;
-  background-color: #fff7e6;
-  border-radius: 6px;
-}
-
-.szöveg h2,
-.szövge h2 {
-  margin-bottom: 8px;
-}
-
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 4px;
+p {
+  font-size: 17px;
 }
 
 footer {
-  margin-top: 25px;
-  padding-top: 10px;
-  border-top: 3px solid #8b1a1a;
   text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 4px solid #8b1a1a;
   font-style: italic;
 }
