@@ -19,7 +19,7 @@
   font-size: 17px;
 }
 
-/* Mobil */
+
 @media (max-width: 700px) {
   .elrendezes {
     flex-direction: column;
