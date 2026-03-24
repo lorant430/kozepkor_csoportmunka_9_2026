@@ -8,18 +8,16 @@
   margin-bottom: 30px;
 }
 
-.elrendezes img {
+img {
   width: 250px;
   border: 4px solid #8b1a1a;
   border-radius: 10px;
 }
 
-.elrendezes .szoveg {
-  flex: 1;
+.szoveg {
   font-size: 17px;
 }
 
-/* Mobil */
 @media (max-width: 700px) {
   .elrendezes {
     flex-direction: column;
