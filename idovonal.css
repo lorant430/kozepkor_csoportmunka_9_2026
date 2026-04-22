@@ -1,8 +1,4 @@
-.esemeny,
-.esemeny1,
-.esemeny2,
-.esemeny3,
-.esemeny4 {
+.esemeny{
   background-color: #fff2d9;
   border: 3px solid #b33a3a;
   padding: 20px;
@@ -15,8 +11,8 @@
   background-color: #d9c4a3;
   padding: 10px;
   border: 3px solid #8b1a1a;
-  display: flex;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 20px;
 }
 
@@ -43,13 +39,11 @@ img {
 @media (max-width: 700px) {
 
 
-  .esemeny,
-  .esemeny1,
-  .esemeny2,
-  .esemeny3,
-  .esemeny4,
+  .ido{
+     grid-template-columns: 1fr;
+  }
   img{
-    grid-template-columns: 1fr;
+
     width: 100%;
   }
 }
