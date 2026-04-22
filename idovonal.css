@@ -41,19 +41,14 @@ img {
 }
 
 @media (max-width: 700px) {
-  .esemeny,
-  .esemeny1,
-  .esemeny2,
-  .esemeny3,
-  .esemeny4 {
-    grid-template-columns: 1fr;
-  }
+
 
   .esemeny,
   .esemeny1,
   .esemeny2,
   .esemeny3,
-  .esemeny4 img {
+  .esemeny4,
+  img{
     grid-template-columns: 1fr;
     width: 100%;
   }
